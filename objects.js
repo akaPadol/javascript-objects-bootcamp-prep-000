@@ -1,4 +1,5 @@
 playlist = new Object( {})
+playlist.liga = "una vita da mediano"
 function updatePlaylist(obj,name,song){
   obj[name]=song
 }
