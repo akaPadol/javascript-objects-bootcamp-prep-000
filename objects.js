@@ -1,4 +1,4 @@
-playlist = new Object({})
+playlist = {}
 
 function updatePlaylist(obj,name,song){
   obj[name]=song
