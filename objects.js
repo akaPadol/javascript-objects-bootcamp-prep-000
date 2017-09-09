@@ -1,7 +1,5 @@
 playlist = new Object({})
 
-
-
 function updatePlaylist(obj,name,song){
   obj[name]=song
 }
