@@ -1,5 +1,5 @@
-playlist = new Object( {})
-playlist.liga = "una vita da mediano"
+playlist = new Object({})
+
 updatePlaylist(playlist,"tizianoFerro","111")
 removeFromPlaylist(playlist,"liga")
 console.log(playlist)
